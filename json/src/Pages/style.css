@@ -1,0 +1,45 @@
+
+#root{
+    display: grid;
+  grid-template-columns: auto auto;
+
+  gap: 10px;
+  background: rgb(39, 43, 51);
+  color: white;
+  
+ 
+}
+.box{
+  margin: 20px;
+  
+  background-color: rgb(51, 51, 51);
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  border-radius:10px;
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  -o-border-radius:10px;
+  margin: 20px;
+}
+  .main{
+    display: flex;
+    height: 190px;
+    border-radius:20px;
+  }
+  .text{
+    padding: 10px;
+  }
+  img{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  .green-round{
+    height: 8px;
+    width: 8px;
+    display: flex;
+    background-color: green !important;
+    border-radius:50%;
+
+ 
+}

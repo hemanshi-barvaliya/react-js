@@ -1,0 +1,31 @@
+.main_header {
+    font-size: 10px !important;
+    padding: 10px 5px 0px 5px;
+    
+   
+}
+.main_header .phone_number{
+    margin-right: 50px;
+}
+
+.owl-carousel .owl-nav button.owl-prev{
+    position: absolute;
+    left:10px;
+    top:300px;
+    color: white !important;
+    font-size: 100px !important;
+   
+    
+}
+.owl-carousel .owl-nav button.owl-next{
+    position: absolute;
+    color: white !important;
+    font-size: 100px !important;
+    right:10px;
+    top:300px;
+}
+.owl-theme .owl-nav [class*='owl-']:hover
+{
+    background-color: transparent !important;
+}
+

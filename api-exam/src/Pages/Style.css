@@ -1,0 +1,79 @@
+.logo{
+     padding: 20px;
+    margin-left: 20px;
+     
+    
+}
+.logo a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.logo1{
+    border-bottom: 1px solid rgb(230, 219, 219);
+}
+.btn1{
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    color: darkblue;
+    font-size: 20px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+    padding: 5px 10px;
+    
+}
+.cart_data{
+    box-shadow: 0 4px 8px 0 rgba(240, 240, 240, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    
+   
+}
+.cart-item{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    
+    
+   
+}
+.padding{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 310px;
+   
+}
+.main{
+    padding: 30px 0;
+   
+}
+.title{
+    padding-top: 10px;
+    
+}
+.title1{
+    padding-top: 15px;
+    color: rgb(77, 75, 75);
+}
+.title1:hover{
+    padding-top: 15px;
+    color: black;
+}
+.price{
+    font-size: 25px;
+    color: red;
+}
+.cart-list{
+    color: rgb(78, 78, 78);
+    box-shadow: 0 4px 8px 0 rgba(63, 50, 121, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 15px;
+    cursor: pointer;
+    
+}
+.cart-list:hover{
+    color: black;
+    
+
+}

@@ -1,0 +1,90 @@
+.item_price{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-top: 10px;
+    
+}
+
+.box_border{
+  border: 1px solid white;
+  
+  text-align: center;
+  padding: 0px 20px 30px 20px;
+  
+ 
+  
+}
+.img_border{
+  border:1px solid lightgray;
+  box-shadow: 0 4px 8px 0 rgba(150, 145, 145, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn{
+ background-color: rgb(109, 182, 231) !important;
+ 
+}
+.Description{
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+  
+
+}
+.price{
+  color: black;
+  font-weight: 900px;
+}
+.price:hover{
+  color: red;
+  font-weight: 900px;
+  font-size: 21px;
+}
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.title{
+  padding-top: 30px;
+}
+.box_border1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 50px;
+  text-align: center;
+ 
+}
+.cart_item{
+  box-shadow: 0 4px 8px 0 rgba(243, 240, 240, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin: 5px;
+  color: hsl(210,8%,42%)
+
+}
+.cart_item:hover{
+  color: black;
+  font-size: 21px;
+}
+.imges:hover{
+  width: 320px;
+}
+.box{
+  height: 48px;
+    text-transform: uppercase;
+    color: #878787;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 14px 24px;
+    border-radius: 2px 2px 0 0;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2);
+    width: 100%;
+   
+  
+    
+}

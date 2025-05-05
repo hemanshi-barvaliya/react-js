@@ -1,0 +1,26 @@
+
+.bg-blue{
+  background-color: #003366 ;
+  color: white;
+}
+.font-10{
+    font-size: 14px;
+}
+.margin-right-5{
+  margin-right:7px;
+}
+.padding-10{
+  padding: 10px;
+}
+.select-box{
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding: 3px;
+  border: 1px solid white;
+}
+.padding-left-10{
+  padding-left: 10px;
+}
+.text-align{
+  text-align: center;
+}
